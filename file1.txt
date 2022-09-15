@@ -1,4 +1,7 @@
 "Civil branch"
 "EEE branch"
 "Mech branch"
-"CSE brach"
+ "CSE brach"
+ "ECE branch"
+"AI and ML branch" 
+
